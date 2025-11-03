@@ -6,3 +6,9 @@ Segunda modificación
 Tercera modificacion
 >>>>>>> 06e9591 (Tercera modificacion)
 ppsdfps
+<<<<<<< HEAD
+=======
+Cuarta modificación
+Quinta modificación
+Sexta modificaion
+>>>>>>> 7283ad6 (Sexta modificacion)
