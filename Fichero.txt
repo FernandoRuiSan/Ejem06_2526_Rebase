@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Primera modificacio/creacion
+=======
+Primera modificacio/creación
+Segunda modificación
+Tercera modificacion
+>>>>>>> 06e9591 (Tercera modificacion)
